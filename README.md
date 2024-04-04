@@ -1,4 +1,4 @@
 # demo.1
 my first repo.
 <br>
-Author- Bhakti Prasad
+Author- Bhakti Prasad Satapathy
